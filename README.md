@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @BhaskarBabuK
-- 🌱 I’m currently studying Computer Science in Kathmandu University, Nepal
